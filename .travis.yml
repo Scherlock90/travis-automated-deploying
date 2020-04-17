@@ -13,7 +13,7 @@ script:
 
 before_deploy:
   provider: script
-  script: ./copy.sh
+  script: bash copy.sh
 
 deploy:
   provider: pages
