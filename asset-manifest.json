@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/travis-automated-deploying/static/css/main.d1b05096.chunk.css",
+    "main.js": "/travis-automated-deploying/static/js/main.9ebb929e.chunk.js",
+    "main.js.map": "/travis-automated-deploying/static/js/main.9ebb929e.chunk.js.map",
+    "runtime-main.js": "/travis-automated-deploying/static/js/runtime-main.f330f6f4.js",
+    "runtime-main.js.map": "/travis-automated-deploying/static/js/runtime-main.f330f6f4.js.map",
+    "static/js/2.1cc3f5f3.chunk.js": "/travis-automated-deploying/static/js/2.1cc3f5f3.chunk.js",
+    "static/js/2.1cc3f5f3.chunk.js.map": "/travis-automated-deploying/static/js/2.1cc3f5f3.chunk.js.map",
+    "index.html": "/travis-automated-deploying/index.html",
+    "precache-manifest.3a2a290a5be4071704bb64fd08b12461.js": "/travis-automated-deploying/precache-manifest.3a2a290a5be4071704bb64fd08b12461.js",
+    "service-worker.js": "/travis-automated-deploying/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/travis-automated-deploying/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.1cc3f5f3.chunk.js.LICENSE.txt": "/travis-automated-deploying/static/js/2.1cc3f5f3.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/travis-automated-deploying/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f330f6f4.js",
+    "static/js/2.1cc3f5f3.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.9ebb929e.chunk.js"
+  ]
+}
