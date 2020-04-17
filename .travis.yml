@@ -12,8 +12,7 @@ script:
   - CI=false npm run build
 
 before_deploy:
-  provider: script
-  script: bash copy.sh
+  - bash copy.sh
 
 deploy:
   provider: pages
