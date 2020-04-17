@@ -15,5 +15,6 @@ deploy:
   provider: pages
   skip_cleanup: true
   github-token: $GITHUB_TOKEN
+  file: build
   on:
     branch: master
