@@ -11,6 +11,10 @@ before_script:
 script:
   - CI=false npm run build
 
+before_deploy:
+  provider: script
+  script: ./copy.sh
+
 deploy:
   provider: pages
   skip_cleanup: true
